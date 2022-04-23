@@ -6,6 +6,7 @@ Hello and welcome to this template of Nintendo Anime Channel revival! It mean th
 * Download the "Nintendo Anime Channel" archive,
 * After extracting, copy the "luma" folder in the root of your SDcard,
 * Make sure game patching is enabled on luma config (hold select while booting, check "enable game patching" then press start),
+* New 2DS only: Enable the new 3DS CPU to clock+L2 (on luma config or rosalina menu), it fix videos glitching,
 * Enjoy!
 
 ## How do I edit contents?
