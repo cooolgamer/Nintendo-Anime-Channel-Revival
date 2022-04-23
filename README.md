@@ -10,8 +10,9 @@ Hello and welcome to this template of Nintendo Anime Channel revival! It mean th
 * Enjoy!
 
 ## How do I edit contents?
-* Edit luma\titles\0004000000141200\romfs\bootapp\resources\scripts\content\debugcatalog.lua file, if you have a error after editing it, then something is wrong in the code.
+* Edit luma\titles\0004000000141200\romfs\bootapp\resources\scripts\content\debugcatalog.lua file.
 * The video format used by this app is .moflex
+* If you have a error or a infinite loading screen after editing it, then something is wrong in the code.
 
 ## More informations
 * This use the SSL patch to make it working, big thanks to the creator of it: https://github.com/InternalLoss/3DS-SSL-Patch
