@@ -2,7 +2,7 @@
 Hello and welcome to this template of Nintendo Anime Channel revival! It mean that you have to edit it to add your own videos on it.
 
 ## How to use?
-* Go to the releases page,
+* Go to the releases page (https://github.com/cooolgamer/Nintendo-Anime-Channel-Revival/releases),
 * Download the "Nintendo Anime Channel" archive,
 * After extracting, copy the "luma" folder in the root of your SDcard,
 * Make sure game patching is enabled on luma config (hold select while booting, check "enable game patching" then press start),
