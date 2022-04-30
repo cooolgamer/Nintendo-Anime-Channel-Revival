@@ -26,4 +26,3 @@ Hello and welcome to this template of Nintendo Anime Channel revival! It mean th
 * Discord server for 3DS apps revival team: https://discord.gg/yGYe6ncSVQ
 * My discord server for my projects: https://discord.gg/r3xtwxb2nQ
 * Don't ask for the cia of Nintendo Anime Channel, I am not giving it.
-ljh:o
