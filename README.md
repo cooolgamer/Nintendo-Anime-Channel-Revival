@@ -11,14 +11,13 @@ Hello and welcome to this template of Nintendo Anime Channel revival! It mean th
 * Enjoy!
 
 ## How do I edit local contents?
-* Edit luma\titles\0004000000141200\romfs\bootapp\resources\scripts\content\cataloghandler.lua file, line 5, set useDebugCatalog to true,
 * Edit luma\titles\0004000000141200\romfs\bootapp\resources\scripts\content\debugcatalog.lua file,
 * Note that video format used by this app is .moflex
 * If you have a error or a infinite loading screen after editing it, then something is wrong in the code.
 
 ## How to setup online catalog/videos?
-* Edit luma\titles\0004000000141200\romfs\bootapp\resources\scripts\content\cataloghandler.lua, line 18 to your catalog path
-* Edit the catalog content (server side\front\catalog.json file)
+* Edit luma\titles\0004000000141200\romfs\bootapp\resources\scripts\content\cataloghandler.lua file, line 5, set useDebugCatalog to false, and edit line 18 to your catalog path
+* Edit the catalog content (server side\front\catalog.json file, the one that the path is set on line 18 of cataloghandler)
 * Note that video format used by this app is .moflex
 * Enjoy!
 
