@@ -17,7 +17,7 @@ Hello and welcome to this template of Nintendo Anime Channel revival! It mean th
 
 ## How to setup online catalog/videos?
 * Edit luma\titles\0004000000141200\romfs\bootapp\resources\scripts\content\cataloghandler.lua file, line 5, set useDebugCatalog to false, and edit line 18 to your catalog path
-* Edit the catalog content (server side\front\catalog.json file, the one that the path is set on line 18 of cataloghandler)
+* Edit the catalog content (server side\front\catalog.json file, the one that the path is set on line 18 of cataloghandler) and put it to your server
 * Note that video format used by this app is .moflex
 * Enjoy!
 
