@@ -1,5 +1,5 @@
 # Nintendo-Anime-Channel-Revival
-Hello and welcome to this template of Nintendo Anime Channel revival! It mean that you have to edit it to add your own videos on it...
+Hello and welcome to this template of Nintendo Anime Channel revival! It mean that you have to edit it to add your own videos on it.
 
 ## How to use?
 * Go to the releases page (https://github.com/cooolgamer/Nintendo-Anime-Channel-Revival/releases),
