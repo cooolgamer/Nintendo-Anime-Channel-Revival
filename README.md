@@ -23,7 +23,7 @@ Hello and welcome to this template of Nintendo Anime Channel revival! It mean th
 
 ## More informations
 * This use the SSL patch to make it working, big thanks to the creator of it: https://github.com/InternalLoss/3DS-SSL-Patch
-* 2DS/New 2DS only: The 3D video will shake on your screen while playing, to fix this on new 2ds, Enable the new 3DS CPU to clock+L2 (on luma config or rosalina menu), for old 2DS, there is no fix for now sadly.
+* 2DS/New 2DS only: 3D videos will shake on your screen while playing, to fix this on new 2ds, Enable the new 3DS CPU to clock+L2 (on luma config or rosalina menu), for old 2DS, there is no fix for now sadly.
 * Discord server for 3DS apps revival team: https://discord.gg/yGYe6ncSVQ
 * My discord server for my projects: https://discord.gg/r3xtwxb2nQ
 * Don't ask for the cia of Nintendo Anime Channel, I am not giving it.
