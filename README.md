@@ -27,6 +27,6 @@ You can [Go here](https://github.com/MettleSphee/3DS_EpisodeGenerator_AnimeTempl
 * Anime channel seems to use a special thing that make many websites like github, google drive etc. not working. The only website that use currently tested to work is archive.org.
 * This use the [SSL patch](https://github.com/InternalLoss/3DS-SSL-Patch) to make it working, big thanks to the creator of it!
 * 2DS/New 2DS only: 3D videos will shake on your screen while playing, to fix this on new 2ds, Enable the new 3DS CPU to clock+L2 (on luma config or rosalina menu), for old 2DS, there is no fix for now sadly. Note that anime channel doesn't support 3D videos and this is why this happens.
-* Discord server for 3DS apps revival team: https://discord.gg/yGYe6ncSVQ.
-* My discord server for my projects: https://discord.gg/r3xtwxb2nQ.
+* Discord server for 3DS apps revival team: https://discord.gg/yGYe6ncSVQ .
+* My discord server for my projects: https://discord.gg/r3xtwxb2nQ .
 * Don't ask for the cia of Nintendo Anime Channel, I am not giving it.
